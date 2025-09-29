@@ -1,32 +1,38 @@
 🌱 Go Green
 
-A modern and eco-friendly frontend project for showcasing company portfolios and details.
+Go Green is a modern frontend project representing a company that provides web development and mobile app development services at affordable prices. The website acts as a professional portfolio to showcase services, company details, and contact information.
 
 📖 About the Project
 
-Go Green is a beautifully designed frontend website focused on presenting company portfolios, services, and other details in a visually appealing way.
-The project emphasizes clean design, green-inspired theme, and a user-friendly interface.
+The goal of Go Green is to deliver a clean, eco-inspired design that reflects growth, innovation, and trust. The website helps businesses and individuals connect with our team to build high-quality digital solutions at low and competitive prices.
 
-✨ Features
+✨ Services
 
-Responsive and mobile-friendly design
+🌐 Web Development – Modern, responsive, and scalable websites
 
-Attractive portfolio showcase
+📱 Mobile App Development – Android & iOS applications with smooth UI/UX
 
-Smooth navigation and UI animations
+🎨 UI/UX Design – User-friendly designs that boost engagement
 
-Eco-friendly green theme layout
+🔧 Maintenance & Support – Affordable post-launch support
 
-Contact and about section for company details
+💡 Custom Solutions – Tailored services as per client needs
 
 🛠️ Technologies Used
 
 Frontend: HTML5, CSS3, JavaScript
 
-Design: Custom CSS styling
+Frameworks/Tools: (add React, Bootstrap, or others if you’re using them)
 
-Theme: Modern eco-green look
+Design: Green-themed modern UI with responsive layouts
 
+🚀 Getting Started
+
+Clone or download this repository.
+
+Open index.html in your browser.
+
+Explore services, portfolio, and contact sections.
 🚀 Getting Started
 
 LIVE DEMO: https://bickeypradhan.github.io/Go-green-company-front-end-/
