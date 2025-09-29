@@ -29,9 +29,7 @@ Theme: Modern eco-green look
 
 🚀 Getting Started
 
-Clone this repository.
-
-Open index.html in your browser.
+LIVE DEMO: https://bickeypradhan.github.io/Go-green-company-front-end-/
 
 Explore the portfolio and company sections.
 
